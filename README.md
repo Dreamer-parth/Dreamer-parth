@@ -42,10 +42,9 @@
 
 
 <br/>
-## ✍️ Random Dev Quote![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br/>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=Dreamer-parth&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
